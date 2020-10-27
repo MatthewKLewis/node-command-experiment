@@ -1,0 +1,14 @@
+{
+  "name": "matthewklewis-resume",
+  "version": "1.0.0",
+  "description": "prints my resume to console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew K Lewis",
+  "license": "ISC",
+  "bin": {
+    "print-resume": "./index.js"
+  }
+}
